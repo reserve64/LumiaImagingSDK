@@ -1,8 +1,8 @@
 {
-	"ProjectName": "bond-app",
+	"ProjectName": "Photo Album",
 	"projectVersion": 1,
-	"AppIdentifier": "com.telerik.bondapp",
-	"DisplayName": "bond-app",
+	"AppIdentifier": "com.telerik.photoalbum",
+	"DisplayName": "Photo Album",
 	"Author": "",
 	"Description": "",
 	"BundleVersion": "1.0",
