@@ -1,0 +1,8 @@
+{
+  "ProjectName": "appMobileTesting",
+  "ProjectGuid": "e82aaf59-0e93-4d42-8f77-d9d2069113b1",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{6319b66f-8dff-4073-91be-3cd48a2fdeb3}",
+  "FrameworkVersion": "1.0",
+  "Framework": "MobileTesting"
+}
