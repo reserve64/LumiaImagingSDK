@@ -10,6 +10,7 @@
   "FrameworkVersion": "3.5.0",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "CorePlugins": [
+    "com.phonegap.plugins.sqlite",
     "com.telerik.mobiletesting",
     "com.telerik.plugin.eqatecanalytics",
     "org.apache.cordova.battery-status",
@@ -30,7 +31,12 @@
     "org.apache.cordova.network-information",
     "org.apache.cordova.splashscreen",
     "org.apache.cordova.statusbar",
-    "org.apache.cordova.vibration"
+    "org.apache.cordova.vibration",
+    "com.phonegap.plugins.sqlite@1.0.2",
+    "nl.x-services.plugins.toast@2.0.4",
+    "com.telerik.plugins.nativepagetransitions@0.2.12",
+    "com.firebase.sdk@1.0.1",
+    "uk.co.whiteoctober.cordova.appversion@0.1.5"
   ],
   "AndroidPermissions": [
     "android.permission.ACCESS_COARSE_LOCATION",
@@ -64,8 +70,8 @@
     "2"
   ],
   "iOSBackgroundMode": [],
-  "WP8TileTitle": "",
-  "WP8Publisher": "",
+  "WP8TileTitle": "PAlbum",
+  "WP8Publisher": "jo mueller",
   "WP8Capabilities": [],
   "WP8Requirements": [],
   "WP8SupportedResolutions": [
@@ -76,5 +82,6 @@
   "IsRunnable": "true",
   "ProjectGuid": "{ba2629ab-865f-4193-9b5a-f1da14946d6f}",
   "WP8PublisherID": "{5e9a20dc-9a6e-4951-b773-084f56faef48}",
-  "WP8ProductID": "{0613d0fb-0d00-4726-87f3-061cd7e44eab}"
+  "WP8ProductID": "{0613d0fb-0d00-4726-87f3-061cd7e44eab}",
+  "CordovaPluginVariables": {}
 }
